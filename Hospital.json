@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Gopal Hospital",
+    "patientCount": 120,
+    "location": "Kollam"
+  },
+  {
+    "id": 2,
+    "name": "Ashtamudi Hospital",
+    "patientCount": 120,
+    "location": "Downtown"
+  },
+  {
+    "id": 3,
+    "name": "Kiran Hospital",
+    "patientCount": 180,
+    "location": "Downtown"
+  },
+  {
+    "id": 4,
+    "name": "General Hospital",
+    "patientCount": 100,
+    "location": "Kollam"
+  }
+]
